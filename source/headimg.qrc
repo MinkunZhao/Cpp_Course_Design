@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>headimg/p1.png</file>
+        <file>headimg/p2.png</file>
+        <file>headimg/p3.png</file>
+        <file>headimg/p4.png</file>
+        <file>headimg/Map1.txt</file>
+        <file>headimg/record.webp</file>
+        <file>headimg/head.png</file>
+        <file>headimg/title.png</file>
+        <file>headimg/zmk.jpg</file>
+        <file>headimg/hjw.png</file>
+        <file>headimg/xdx.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>city2/beijing.jpeg</file>
+        <file>city2/boling.jpeg</file>
+        <file>city2/changsha.jpeg</file>
+        <file>city2/chengdu.jpg</file>
+        <file>city2/guangzhou.jpeg</file>
+        <file>city2/guling.jpeg</file>
+        <file>city2/haerbin.jpeg</file>
+        <file>city2/hangzhou.jpg</file>
+        <file>city2/kailuo.jpeg</file>
+        <file>city2/kunming.jpeg</file>
+        <file>city2/lasa.jpeg</file>
+        <file>city2/lundun.jpeg</file>
+        <file>city2/luoma.jpeg</file>
+        <file>city2/mosike.jpeg</file>
+        <file>city2/niuyue.jpeg</file>
+        <file>city2/shanghai.jpeg</file>
+        <file>city2/shengzhen.jpeg</file>
+        <file>city2/tokyo.jpeg</file>
+        <file>city2/wuhang.jpeg</file>
+        <file>city2/xiamen.jpeg</file>
+        <file>city2/xian.jpeg</file>
+        <file>city2/xinin.jpeg</file>
+    </qresource>
+</RCC>
